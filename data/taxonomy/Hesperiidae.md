@@ -1,11 +1,18 @@
-# Family Hesperiidae (Skippers)
+# Family Hesperiidae (Skippers) {Butterflies}
 
 ## Subfamily: Pyrrhopyginae (Firetips)
-Apyrrothrix araxes Dull Firetip (Hewitson, 1867)
+- Apyrrothrix araxes Dull Firetip (Hewitson, 1867)  
+  - Wing Span: 1 3/4 - 2 1/4 inches (4.5 - 5.7 cm).
+  - Flight: June-November
+  - Range: Southern Arizona, west Texas, Mexico.
 
 
 ## Subfamily: Pyrginae (Spread-wing Skippers)
-Phocides pigmalion Mangrove Skipper (Cramer, 1779)
+- Phocides pigmalion Mangrove Skipper (Cramer, 1779)
+  - Wing Span: 1 7/8 - 2 3/4 inches (4.8 - 7 cm).
+  - Flight: November-August in southern Florida.
+  - Range: Florida and Mexico to Argentina. 
+ 
 Phocides belus Belus Skipper Godman & Salvin, 1893
 Phocides palemon Guava Skipper
 Phocides urania Urania skipper (Westwood, [1852])
