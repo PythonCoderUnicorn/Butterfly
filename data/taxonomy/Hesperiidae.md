@@ -13,81 +13,320 @@
   - Flight: November-August in southern Florida.
   - Range: Florida and Mexico to Argentina. 
  
-Phocides belus Belus Skipper Godman & Salvin, 1893
+Phocides belus Belus Skipper Godman & Salvin, 1893  
+
 Phocides palemon Guava Skipper
+  - Wing Span: 1 5/8 - 2 1/2 inches (4.2 - 6.3 cm).
+  - Flight: February, April, and June-December
+  - Range: Mexico and Central America to Argentina.
+
 Phocides urania Urania skipper (Westwood, [1852])
+
 Proteides mercurius Mercurial Skipper (Fabricius, 1787)
+  - Wing Span: 2 1/4 - 2 3/4 inches (5.8 - 7 cm).
+  - Flight: April-May in southern Florida, April-October in South Texas, all year in Mexico.
+  - Central America to Mexico and the West Indies.
+
 Epargyreus zestos Zestos Skipper (Geyer, 1832)
+  - Wing Span: 1 3/4 - 2 3/8 inches (4.5 - 6 cm).
+  - Flight: January-November in south Florida.
+  - Range: Southern Florida and the Keys; the West Indies.
+
 Epargyreus clarus Silver-spotted Skipper (Cramer, 1775)
+  - Wing Span: 1 3/4 - 2 5/8 inches (4.5 - 6.7 cm).
+  - Flight: Two broods from May-September in most of the East, a single brood to the north and west, three-four broods from February-December in the Deep South.
+  - Range: Extreme southern Canada and most of the continental United States except the Great Basin and west Texas; northern Mexico.
+ 
+
 Epargyreus spanna Hispaniolan Silverdrop Evans, 1952
+
 Epargyreus exadeus Broken Silverdrop (Cramer, 1779)
+  - Wing Span: 1 15/16 - 2 7/16 inches (4.9 - 6.2 cm).
+  - Flight: October in South Texas, many flights from May-November in Mexico and Central America.
+  - Range: Argentina north through Central America to Mexico. Rare stray to South Texas, southern Arizona, and southern California. 
+
 Polygonus leo Hammock Skipper (Gmelin, [1790])
+  - Wing Span: 1 11/16 - 2 5/16 inches (4.3 - 5.9 cm).
+  - Flight: Several flights from May-September in the Southwest, many flights all year in southern Florida. A rare stray from Mexico into South Texas.
+  - Range: Argentina north through Central America and Mexico to the West Indies and southern Florida. Strays to Texas and the Southwest.
+
 Polygonus savigny Manuel's Skipper (Latreille, [1824])
+  - Wing Span: 1 1/2 - 1 3/4 inches (3.8 - 4.5 cm).
+  - Flight: August-September in South Texas, January-October in tropics.
+  - Range: Argentina north through central America to Mexico and the West Indies. Rare stray to South Texas.
+  
+
 Chioides albofasciatus White-striped Longtail (Hewitson, 1867)
+  - Wing Span: 1 1/2 - 2 1/8 inches (3.9 - 5.4 cm).
+  - Flight: Many flights throughout the year in South Texas.
+  - Range: Argentina north through Central America to the West Indies and South Texas. Occasional stray to southwest New Mexico and southern Arizona.
+
 Chioides catillus (Cramer, 1779)
+  - Wing Span: 46-52 mm.
+  - Flight: All year in southern Texas and lowland tropics.
+  - Range: Resident from southeastern Arizona, southern Texas and West Indies south through tropical America to Argentina. Periodic stray to west Texas and southwest New Mexico.
+
 Chioides zilpa Zilpa Longtail (Butler, 1872)
+  - Wing Span: 1 1/2 - 2 5/16 inches (3.9 - 5.9 cm).
+  - Flight: March-April and September-November in South Texas; all year in Mexico and Central America.
+  - Range: Ecuador north through Central America to Mexico. Regularly strays to South Texas and southeast Arizona.
+
 Chioides ixion Hispaniolan Longtail (Plötz, 1880)
+
 Aguna asander Gold-spotted Aguna (Hewitson, 1867)
+  - Wing Span: 1 7/8 - 2 3/16 inches (3.8 - 5.6 cm).
+  - Flight: April, June, and August-November in South Texas; December-January in Mexico.
+  - Range: Argentina north through Central America and Mexico to the West Indies. Strays to the lower Rio Grande Valley, Texas and rarely to southeastern Arizona.
+
 Aguna claxon Emerald Aguna Evans, 1952
+  - Wing Span: 1 1/2 - 1 3/4 inches (3.8 - 4.5 cm).
+  - Flight: October in South Texas, June-October in Mexico.
+  - Range: Venezuela and Colombia north through Central America to Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+
 Aguna metophis Tailed Aguna (Latreille, [1824])
+  - Wing Span: 1 7/16 - 1 7/8 inches (3.7 - 4.8 cm).
+  - Flight: August-November in South Texas, all year in Mexico.
+  - Range: Southern Brazil north through Central America to Mexico. Regularly strays to the lower Rio Grande Valley, Texas.
+
 Typhedanus undulatus Mottled Longtail (Hewitson, 1867)
+  - Wing Span: 1 5/8 - 1 7/8 inches (4.2 - 4.8 cm).
+  - Flight: August-October in South Texas, December-May in the tropics.
+  - Range: Argentina north through tropical America to Mexico. Occasionally strays to the lower Rio Grande Valley, Texas.
+
 Typhedanus ampyx Gold-tufted Skipper (Godman & Salvin, [1893])
+  
+
 Polythrix octomaculata Eight-spotted Longtail (Sepp, [1844])
+  - Wing Span: 1 3/8 - 1 13/16 inches (3.5 - 4.6 cm).
+  - Flight: Many flights from March-November in Mexico; March and August-October in South Texas.
+  - Range: Argentina north through tropical America to Mexico and Haiti. Occasionally strays to the lower Rio Grande Valley, Texas.
+
 Polythrix mexicanus Mexican Longtail H.A. Freeman, 1969
+  - Wing Span: 1 3/8 - 1 5/8 inches (3.5 - 4.1 cm).
+  - Flight: Many broods from April-October in Mexico; June-July and October in South Texas.
+  - Range: Peru north to Mexico. Strays north to the lower Rio Grande Valley, Texas.
+
 Polythrix asine Asine Longtail (Hewitson, 1867)
+
+
 Polythrix caunus (Herrich-Schäffer, 1869) Four-spotted Longtail
+
 Zestusa dorus Short-tailed Skipper (W.H. Edwards, 1882)
+  - Wing Span: 1 3/8 - 1 5/8 inches (3.5 - 4.2 cm).
+  - Flight: Possibly two flights in Arizona from April-July; one flight in Colorado from May-June.
+  - Range: Southwest Colorado, Arizona, New Mexico, west Texas, and Mexico.
+
 Codatractus carlos Carlos' Mottled-Skipper Evans, 1952
+
+
 Codatractus alcaeus White-crescent Longtail (Hewitson, 1867)
+  - Wing Span: 1 5/8 - 2 1/4 inches (4.2 - 5.7 cm).
+  - Flight: Many flights from April-October in Mexico; June and October in South Texas.
+  - Range: Panama north through Mexico. A rare stray to west Texas and the lower Rio Grande Valley of South Texas.
+
 Codatractus yucatanus Yucatan Mottled-Skipper H. Freeman, 1977
+
 Codatractus arizonensis Arizona Skipper (Skinner, 1905)
+  - Wing Span: 1 3/4 - 2 inches (4.5 - 5.1 cm).
+  - Flight: Several flights in Mexico from April-October.
+  - Range: Southern Arizona, west Texas, and Mexico.
+
 Codatractus valeriana Valeriana Skipper (Plötz, 1881)
+
 Urbanus proteus Long-tailed Skipper (Linnaeus, 1758)
+  - Wing Span: 1 3/4 - 2 5/16 inches (4.5 - 6 cm).
+  - Flight: Two to three broods throughout the year in south Florida and South Texas.
+  - Range: Argentina north through Central America, the West Indies, and Mexico to peninsular Florida and South Texas.
+
 Urbanus viterboana Bluish Longtail (Ehrmann, 1907)
 Urbanus belli Double-striped Longtail (Hayward, 1935)
+
 Urbanus pronus Pronus Longtail Evans, 1952
+  - Wing Span: 1 5/16 - 1 3/4 inches (3.4 - 4.4 cm).
+  - Flight: April-September in Mexico; October in South Texas.
+  - Range: Brazil and Paraguay north through Central America to Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+
 Urbanus esmeraldus Esmeralda Longtail (Butler, 1877)
+  - Wing Span: 1 3/8 - 1 5/8 inches (3.5 - 4.2 cm).
+  - Flight: Many flights from April-October in Mexico; August in South Texas.
+  - Range: Brazil and Paraguay north through the tropics to Mexico. A rare stray north to the lower Rio Grande Valley, Texas.
+
 Urbanus evona Turquoise Longtail Evans, 1952
+
 Urbanus dorantes Dorantes Longtail (Stoll, 1790)
+  - Wing Span: 1 7/16 - 2 inches (3.7 - 5.1 cm).
+  - Flight: Three to four broods throughout the year in south Florida and South Texas.
+  - Range: Argentina north through Central America, Mexico, and the West Indies to South Texas and peninsular Florida. Strays north to northern California, southern Arizona, southern Missouri, and southern Georgia.
+
 Urbanus teleus Teleus Longtail (Hübner, 1821)
+  - Wing Span: 1 3/8 - 1 1/2 inches (3.5 - 3.9 cm).
+  - Flight: Many flights throughout the year in South Texas.
+  - Range: Argentina north through Central America and Mexico to South Texas.
+
 Urbanus tanna Tanna Longtail Evans, 1952
+- Wing Span: 1 5/16 - 1 1/2 inches (3.3 - 3.8 cm).
+- Flight: June-December in Mexico; June in South Texas.
+- Range: Ecuador and French Guiana north through Central America to Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+
 Urbanus simplicius Plain Longtail (Stoll, 1790)
+  - Wing Span: 1 1/2 - 1 15/16 inches (3.8 - 5 cm).
+  - Flight: October-July in Mexico and Central America; April in South Texas.
+  - Range: Argentina north through Central America to Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+ 
+
 Urbanus procne Brown Longtail (Plötz, 1881)
+  - Wing Span: 1 7/16 - 1 7/8 inches (3.7 - 4.8 cm).
+  - Flight: Three broods throughout the year in South Texas.
+  - Range: Argentina north through Central America and Mexico to South Texas. A rare stray to southern New Mexico, southern Arizona, and southern California.
+
 Urbanus doryssus White-tailed Longtail (Swainson, 1831)
+  - Wing Span: 1 3/16 - 1 7/8 inches (3 - 4.8 cm).
+  - Flight: All year in Mexico; March-November in South Texas.
+  - Range: Argentina north through tropical America to Mexico. Strays north to the lower Rio Grande Valley, Texas.
+
 Urbanus albimargo White-edged Longtail (Mabille, 1875)
+
 Astraptes fulgerator Two-barred Flasher (Walch, 1775)
+  - Wing Span: 1 7/8 - 2 3/8 inches (4.8 - 6.1 cm).
+  - Flight: All year in South Texas.
+  - Range: Argentina north through Central America to the lower Rio Grande Valley, Texas. Strays to central Texas and southeastern New Mexico.
+
 Astraptes egregius Small-spotted Flasher (Butler, 1870)
-Astraptes alardus Frosted Flasher (Stoll, 1790)
+  - Wing Span: 1 1/2 - 1 3/4 inches (3.8 - 4.5 cm).
+  - Flight: October in South Texas; February-November in Mexico and Central America.
+  - Range: Ecuador and Venezuela north through tropical America to Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+
+Astraptes alardus Frosted Flasher (Stoll, 1790) **
+  - Wing Span: 2 - 2 1/2 inches (5.1 - 6.4 cm).
+  - Flight: June and September-October in South Texas; June-December in Mexico and Central America.
+  - Range: Argentina north through Central America to Mexico and Cuba. A rare stray north to the lower Rio Grande Valley, Texas.
+
+
 Astraptes habana Frosty Flasher Lucas, 1857
+
 Astraptes alector Gilbert's Flasher (C. Felder & R. Felder, 1867)
+  - Wing Span: 2 - 2 1/2 inches (5.1 - 6.4 cm).
+  - Flight: Several flights all year in Mexico.
+  - Range: Mexico south to Central America. A rare stray north to the lower Rio Grande Valley, Texas.
+  
+
 Astraptes anaphus Yellow-tipped Flasher (Cramer, 1777)
+  - Wing Span: 2 - 2 1/2 inches (5.1 - 6.4 cm).
+  - Flight: April-May and September-November in South Texas; many flights beginning in March in Mexico.
+  - Range: Argentina north through Central America to the West Indies and Mexico. Strays to the lower Rio Grande Valley, Texas.
+
 Autochton cellus Golden Banded-Skipper (Boisduval & Leconte, [1837])
+  - Wing Span: 1 3/8 - 2 inches (3.5 - 5.1 cm).
+  - Flight: Two broods; from May-August in the north, April-September in the south. One brood from June-September in southern Arizona.
+  - Range: In the west from central Arizona, southwest New Mexico, and west Texas south to central Mexico. In the east from Maryland south to South Carolina, west to eastern Oklahoma and northeast Texas. Isolated population in northern Florida.
+
 Autochton pseudocellus Sonoran Banded-Skipper (Coolidge & Clemence, [1910])
+  - Wing Span: 1 1/2 - 1 7/8 inches (3.8 - 4.3 cm).
+  - Flight: Probably 2 broods from June-September.
+  - Range: Extirpated in southeast Arizona; rare and local in northern Mexico.
+
 Autochton cincta Chisos Banded-Skipper (Plötz, 1882)
 Autochton vectilucis Central American Banded-Skipper (Butler, 1872)
 Autochton neis Broad Banded-Skipper (Geyer, [1832])
 Autochton longipennis Spike Banded-Skipper (Plötz, 1882)
+
 Achalarus lyciades Hoary Edge (Geyer, 1832)
+  - Wing Span: 1 3/4 - 1 15/16 inches (4.5 - 4.9 cm).
+  - Flight: One brood from June-August in the north; 2 broods from April-September in most of its range.
+  - Range: Eastern United States from central New England south to northern Florida; west to Iowa, eastern Kansas, and central Texas. Outlying record from western Kansas.
+
 Achalarus casica Desert Cloudywing (Herrich-Schäffer, 1869)
+  - Wing Span: 1 1/2 - 2 inches (3.8 - 5.1 cm).
+  - Flight: Several flights from April-October in Texas and Mexico.
+  - Range: Guatemala north to northern Mexico. Strays north to west Texas, southwest New Mexico, and southeastern Arizona.
+
 Achalarus tehuacana Tehuacan or Dark Cloudywing (Draudt, 1922)
 Achalarus albociliatus Skinner's Cloudywing (Mabille, 1877)
+
 Achalarus toxeus Coyote Cloudywing (Plötz, 1882)
+  - Wing Span: 1 5/8 - 1 15/16 inches (4.2 - 5 cm).
+  - Flight: Three broods from February-November.
+  - Range: Panama north through Central America and Mexico to central Texas. Strays north to southern Arizona.
+
 Thessia jalapus Jalapus Cloudywing (Plötz, 1881)
+  - Wing Span: 1 5/8 - 1 7/8 inches (4.2 - 5 cm).
+  - Flight: Many broods in Mexico; strays to South Texas in July and September-October.
+  - Range: Colombia north through Central America to Mexico. Strays north to the lower Rio Grande Valley, Texas.
+
 Thorybes drusius Drusius Cloudywing (W.H. Edwards, [1884])
+  - Wing Span: 1 1/2 - 1 3/4 inches (3.8 - 4.5 cm).
+  - Flight: Several broods from April-August.
+  - Range: Local and uncommon. Arizona to west Texas; south into Mexico.
+
 Thorybes pylades Northern Cloudywing (Scudder, 1870)
+  - Wing Span: 1 1/4 - 1 7/8 inches (3.2 - 4.7 cm).
+  - Flight: One brood from May-July in the north, earlier in the south. Two broods from March-September in Texas.
+  - Range: Nova Scotia west across southern Canada to British Columbia, south through California and the Rocky Mountain states to Mexico, Texas, the Gulf states, and Florida.
+
 Thorybes bathyllus Southern Cloudywing (J.E. Smith, 1797)
+  - Wing Span: 1 5/16 - 1 7/8 inches (3.3 - 5 cm).
+  - Flight: One brood from mid-June to mid-July in the north; two broods (possibly three) from June-early October in most of its range.
+  - Range: Most of the eastern United States from southern Maine west across the Great Lake States to Minnesota, Nebraska, southeastern Colorado, and northern New Mexico; south to central Florida, the Gulf Coast, and Texas.
+  
+
 Thorybes confusis Confused Cloudywing Bell, 1922
+  - Wing Span: 1 1/2 - 1 7/8 inches (3.8 - 4.8 cm).
+  - Flight: Two broods from April-August.
+  - Range: Southeastern Pennsylvania west to Missouri, south along the Atlantic Coastal plain to central Florida, the Gulf Coast, and Texas. Strays to southeastern Kansas, southern Illinois, and New Jersey.
+
 Thorybes diversus Western Cloudywing Bell,1927
+  - Wing Span: 1 1/4 - 1 1/2 inches (3.2 - 3.8 cm).
+  - Flight: One brood from June-July.
+  - Range: Local and scarce. South Cascade mountains of Oregon and the Sierra Nevada of California.
+
+
 Thorybes mexicana Mexican Cloudywing (Herrich-Schäffer, 1869)
+  - Wing Span: 1 1/8 - 1 3/8 inches (2.9 - 3.5 cm).
+  - Flight: One flight from June-August.
+  - Range: High elevation mountains of the western United States south into Mexico.
+
 Cabares potrillo Potrillo Skipper (Lucas, 1857)
+  - Wing Span: 1 1/8 - 1 11/16 inches (2.9 - 4.3 cm).
+  - Flight: Three broods throughout the year in South Texas.
+  - Range: Colombia and Venezuela north through Central America and the West Indies to the lower Rio Grande Valley, Texas. Strays north to central Texas.
+
 Celaenorrhinus fritzgaertneri Fritzgaertner's Flat (Bailey, 1880)
+  - Wing Span: 1 5/8 - 1 15/16 inches (4.2 - 5 cm).
+  - Flight: February-September in South Texas; through October in Mexico.
+  - Range: Costa Rica north through Mexico. A periodic stray to South Texas and rarely to southern Arizona.
+
 Celaenorrhinus stallingsi Stallings' Flat H.A. Freeman, 1946
+  - Wing Span: 1 3/8 - 1 3/4 inches (3.5 - 4.5 cm).
+  - Flight: May-November in South Texas; March-November in Mexico.
+  - Range: Costa Rica north through Mexico. A periodic stray to the lower Rio Grande Valley, Texas.
+
 Celaenorrhinus stola Slota Flat Evans, 1952
+
 Spathilepia clonius Falcate Skipper (Cramer, 1775)
+  - Wing Span: 1 5/8 - 1 13/16 inches (4.2 - 4.6 cm).
+  - Flight: May-July and October-November in South Texas; all year in Mexico and Central America.
+  - Range: Argentina north through Central America to Mexico. A rare stray to South Texas.
+
 Cogia hippalus Acacia Skipper (W.H. Edwards, 1882)
+  - Wing Span: 1 3/8 - 1 7/8 inches (3.5 - 4.8 cm).
+  - Flight: April-August in Texas and Arizona; through October in Mexico.
+  - Range: Brazil north through Central America to central Arizona, southwest New Mexico, and west Texas. A rare stray to the lower Rio Grande Valley, Texas.
+
 Cogia outis Outis Skipper (Skinner, 1894)
+  - Wing Span: 1 3/16 - 1 11/16 inches (3 - 4.3 cm).
+  - Flight: Four broods from March-October.
+  - Range: Central Texas. Strays north to Oklahoma, southwest Missouri, and northwestern Arkansas; strays south to northern Chihuahua and Coahuila, Mexico.
+
 Cogia caicus Gold-costa Skipper (Herrich-Schäffer, 1869)
+  - Wing Span: 1 5/8 - 1 3/4 inches (4.2 - 4.5 cm).
+  - Flight: Several broods from March-August.
+  - Range: Local and scarce from Guatemala north through Mexico to central Arizona and central New Mexico. Range may be expanding in the Southwest.
+
 Cogia calchas Mimosa Skipper (Herrich-Schäffer, 1869)
+  - Wing Span: 1 3/16 - 1 3/4 inches (3 - 4.5 cm).
+  - Flight: Three broods from March-November in South Texas; throughout the year in Mexico and Central America.
+  - Range: Argentina north through Central America and Mexico to South Texas.
+
 Bungalotis quadratum Pallid Scarlet-eye (Sepp, 1845)
 Arteurotia tractipennis Starred Skipper Butler & H. Druce, 1872
 Polyctor cleta Cleta Tufted-Skipper Evans, 1953
