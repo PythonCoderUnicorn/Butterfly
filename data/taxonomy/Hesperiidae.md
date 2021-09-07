@@ -328,7 +328,14 @@ Cogia calchas Mimosa Skipper (Herrich-Schäffer, 1869)
   - Range: Argentina north through Central America and Mexico to South Texas.
 
 Bungalotis quadratum Pallid Scarlet-eye (Sepp, 1845)
+
 Arteurotia tractipennis Starred Skipper Butler & H. Druce, 1872
+  - Wing Span: 1 1/8 - 1 3/8 inches (2.9 - 3.5 cm).
+  - Flight: September in South Texas; May-June in Mexico and Central America.
+  - Range: Bolivia north through Central America to northern Mexico. Has strayed to the lower Rio Grande Valley, Texas.
+
+
+
 Polyctor cleta Cleta Tufted-Skipper Evans, 1953
 Polyctor enops Enops Tufted-Skipper (Godman & Salvin, [1894])
 Nisoniades rubescens Purplish-black Skipper (Möschler, 1877)
