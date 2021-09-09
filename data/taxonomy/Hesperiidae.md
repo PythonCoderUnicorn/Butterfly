@@ -337,64 +337,199 @@ Arteurotia tractipennis Starred Skipper Butler & H. Druce, 1872
 
 
 Polyctor cleta Cleta Tufted-Skipper Evans, 1953
+
 Polyctor enops Enops Tufted-Skipper (Godman & Salvin, [1894])
+
 Nisoniades rubescens Purplish-black Skipper (Möschler, 1877)
+  - Wing Span: 1 - 1 7/16 inches (2.5 - 3.7 cm).
+  - Flight: October-November in South Texas; July-November in Mexico.
+  - Range: Brazil north through tropical America to northern Mexico. Occasionally strays to the lower Rio Grande Valley, Texas.
+  
+
 Pellicia arina Glazed Pellicia Evans, 1953
+  - Wing Span: 1 - 1 1/2 inches (2.5 - 3.8 cm).
+  - Flight: March-April and June-December in South Texas; July and October-February in Mexico and Central America.
+  - Range: Panama, Mexico. Texas.
+
 Pellicia angra Confused Pellicia Evans, 1953
+  - Wing Span: 1 1/8 - 1 1/2 inches (2.9 - 3.8 cm).
+  - Flight: October-November in South Texas; June-November in Mexico.
+  - Range: Panama, Mexico. Texas
+
 Pellicia dimidiata Morning Glory Pellicia Herrich-Schäffer, 1870
+  - Wing Span: 7/8 - 1 1/8 inches (2.2 - 3 cm).
+  - light: October in South Texas; April-May and September-February in Mexico and Central America.
+  - Range: Argentina, Mexico, Texas.
+
 Noctuana stator Red-studded Skipper (Godman, 1899)
+  - Wing Span: 1 - 1 1/3 inches (2.5 - 3.3 cm).
+  - Flight: Several flights all year in Mexico.
+  - Range: Mexico, Central America.
+
 Noctuana lactifera Cryptic Skipper (Butler & Druce, 1872)
+
+
 Windia windi Wind's Skipper H.A. Freeman, 1969
+  - Wing Span: 1 1/4 - 1 1/2 inches (3.2 - 3.8 cm).
+  - Flight: August-September (1 flight).
+  - Range: Mexico. 
+
 Bolla imbras Rounded Sootywing (Godman & Salvin, 1896)
+
 Bolla brennus Obscure Bolla (Godman & Salvin, 1896)
+  - Wing Span: 7/8 - 1 3/16 inches (2.2 - 3.1 cm).
+  - Flight: October in South Texas; beginning in May in Mexico.
+  - Range: Colombia north through Central America to central Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+
 Bolla eusebius Spatulate Sootywing (Plötz, 1884)
+
 Bolla clytius Mottled Bolla (Godman & Salvin, 1897)
+  - Wing Span: 7/8 - 1 1/8 inches (2.2 - 2.9 cm).
+  - Flight: June and October-November in South Texas; March-November in Mexico.
+  - Range: Honduras north to northern Mexico. A periodic stray to central and South Texas and southern Arizona.
+
 Staphylus ceos Golden-headed Scallopwing (W.H. Edwards, 1882)
+  - Wing Span: 15/16 - 1 1/8 inches (2.4 - 2.9 cm).
+  - Flight: Many flights from April-December in Texas; April-September northward.
+  - Range: Southern Arizona, southern New Mexico, and west and South Texas south to Durango, Mexico.
+
 Staphylus vulgata Golden-snouted Sootywing (Möschler, 1879)
+
+
 Staphylus hayhurstii Hayhurst's Scallopwing (W.H. Edwards, 1870)
+  - Wing Span: 1 - 1 1/4 inches (2.5 - 3.2 cm).
+  - Flight: Two broods; from May-August in most of its range, April-September in Mississippi, February-December in Florida.
+  - Range:  Nebraska, Pennsylvania, Florida, the Gulf states, and central Texas.
+
 Staphylus mazans Mazans Scallopwing (Reakirt, [1867])
+  - Wing Span: 1 - 1 3/16 inches (2.5 - 3 cm).
+  - Flight: Texas.
+  - Range: Texas, Mexico.
+
 Staphylus ascalaphus Central American Sootywing or Mauve Scallopwing (Staudinger, 1876)
+
 Staphylus azteca Aztec Scallopwing (Scudder, 1872)
+
+
 Gorgythion begga Variegated Skipper (Prittwitz, 1868)
+  - Wing Span: 15/16 - 1 1/16 inches (2.4 - 2.7 cm).
+  - Flight: March and December in South Texas.
+  - Range: Argentina, Central America, Mexico.
+
+
 Sostrata nordica Blue-studded Skipper Evans, 1953
+  - Wing Span: 15/16 - 1 3/16 inches (2.4 - 3 cm).
+  - Flight: October in South Texas; April-October in Mexico and Central America.
+  - Range: Argentina north through tropical America to Mexico. A rare stray to the lower Rio Grande Valley, Texas.
+
+
 Paches polla Polla Blue-Skipper (Mabille, 1888)
+
 Carrhenes canescens Hoary Skipper (R. Felder, 1869)
+  - Wing Span: 1 - 1 5/16 inches (2.5 - 3.3 cm).
+  - Flight: February-May and October-December in South Texas.
+  - Range: Argentina, Mexico, Texas.
+
+
 Carrhenes fuscescens Tanned Hoary-Skipper (Mabille, 1891)
+
 Xenophanes tryxus Glassy-winged Skipper (Stoll, 1780)
+  - Wing Span: 1 1/8 - 1 5/16 inches (2.9 - 3.3 cm).
+  - Flight: Three broods from February-December in South Texas; many flights in Mexico.
+  - Range: Argentina, Mexico.
+
 Onenses hyalophora Crystal-winged Skipper (R. Felder, 1869)
 Antigonus emorsa White Spurwing (R. Felder, 1869)
 Antigonus erosus (Hübner, 1812)
 Antigonus nearchus Large Spurwing (Latreille, [1817])
 Mylon pelopidas Pale Mylon / Dingy Mylon (Fabricius, 1793)
 Mylon lassia Bold Mylon (Hewitson, 1868)
+
 Systasea pulverulenta Texas Powdered Skipper (R. Felder, 1869)
+  - Wing Span: 15/16 - 1 3/8 inches (2.4 - 3.5 cm).
+  - Flight: February-December in South Texas.
+  - Range:  Texas, Mexico, Guatemala.
+
 Systasea zampa Arizona Powdered Skipper (W.H. Edwards, 1876)
+  - Wing Span: 1 - 1 1/2 inches (2.5 - 3.8 cm).
+  - Flight: Several broods from April-October.
+  - Range: California, Arizona, New Mexico, and Texas.
+
 Achlyodes busirus heros Giant Sicklewing Ehrmann, 1909
 Achlyodes pallida Pale Sicklewing (R. Felder, 1869)
+
 Eantis tamenund Northern Sicklewing (W.H. Edwards, 1871)
+  - Wing Span: 1 3/8 - 1 3/4 inches (3.5 - 4.5 cm).
+  - Flight: Many flights all year in South Texas; most common from August-November.
+  - Range: Argentina, Texas.
+
 Eantis papinianus Cuban Sicklewing (Poey, 1832)
 Zera hyacinthinus Bruised Skipper (Mabille, 1877)
 Quadrus lugubris Tanned Blue-Skipper (R. Felder, 1869)
 Atarnes sallei Orange-spotted Skipper (C. Felder & R. Felder, 1867)
+
 Grais stigmaticus Hermit Skipper (Mabille, 1883)
+  - Wing Span: 1 13/16 - 2 1/8 inches (4.6 - 5.4 cm).
+  - Flight: April and July-October in South Texas; March-December in Mexico.
+  - Range: Argentina, Texas, Oklahoma and Kansas.
+
 Timochares ruptifasciata Brown-banded Skipper (Plötz, 1884)
+  - Wing Span: 1 1/2 - 1 11/16 inches (3.8 - 4.3 cm).
+  - Flight: Many broods from March-November in South Texas and Mexico.
+  - Range: South Texas, Mexico, and Jamaica.
+
 Timochares trifasciata Many-banded Skipper (Hewitson, 1868)
 Anastrus sempiternus Common Anastrus (Butler & H. Druce, 1872)
 Anastrus neaeris neaeris Brilliant Anastrus (Möschler, 1879)
 Ebrietas anacreon Common Bent-Skipper (Staudinger, 1876)
 Helias cama Squared Bent-Skipper Squared Bent-Skipper
 Theagenes aegides White-centered Bent-Skipper (Herrich-Schäffer, 1869)
+
 Chiomara georgina White-patched Skipper (Reakirt, 1868)
+  - Wing Span: 1 1/8 - 1 1/2 inches (2.9 - 3.8 cm).
+  - Flight: Three to four broods throughout the year in South Texas.
+  - Range: Argentina, Texas, Arizona, Nevada, and Kansas.
+
 Chiomara mithrax Slaty Skipper (Möschler, 1879)
+
 Gesta invisus False Duskywing (Butler & H. Druce, 1872)
+  - Wing Span: 15/16 - 1 3/8 inches (2.4 - 3.5 cm).
+  - Flight: Four broods from April-November in South Texas; all year southward.
+  - Range: Argentina, Texas.
+
 Ephyriades zephodes Zephodes Duskywing (Hübner, [1825])
 Ephyriades arcas Caribbean Duskywing (Drury, [1773])
+
 Ephyriades brunnea Florida Duskywing (Herrich-Schäffer, 1865)
+  - Wing Span: 1 5/8 - 1 7/8 inches (4.2 - 4.8 cm).
+  - Flight: Many flights throughout the year in southern Florida.
+  - Range: Florida, Honduras.
+
 Erynnis icelus Dreamy Duskywing (Scudder & Burgess, 1870)
+  - Wing Span: 1 1/8 - 1 1/2 inches (2.9 - 3.8 cm).
+  - Flight: One brood from April to early July; perhaps a rare second brood in the southern Appalachian Mountains.
+  - Range: Boreal North America from the Northwest Territories east across southern Canada to Nova Scotia; south in the western mountains to southern Arizona and southern New Mexico; south in the east to Arkansas, northeastern Alabama, and northern Georgia.
+
 Erynnis brizo Sleepy Duskywing (Boisduval & Leconte, [1837])
+  - Wing Span: 1 1/4 - 1 3/4 inches (3.2 - 4.5 cm).
+  - Flight: One brood; from January-May in Florida and Texas, from March-June in the rest of the range.
+  - Range: In the west from California east to Utah and southern Wyoming; south through the mountains to Arizona, New Mexico, Baja California Norte and central Mexico. In the east from Manitoba south through southern Ontario and the eastern United States to central Florida, the Gulf Coast, and central Texas.
+
 Erynnis juvenalis Juvenal's Duskywing (Fabricius, 1793)
-Erynnis telemachus Rocky Mountain Duskywing Burns, 1960
+  - Wing Span: 1 1/4 - 1 15/16 inches (3.2 - 4.9 cm).
+  - Flight: One brood from April-June, emerging as early as late January in peninsular Florida.
+  - Range: Nova Scotia and central New England west through southern Manitoba to the Dakotas and northeastern Wyoming; south through most of the eastern United States to Florida, the Gulf states, and Texas. White-fringed populations occur in west Texas, New Mexico, and central Arizona south to central Mexico.
+
+Erynnis telemachus Rocky Mountain Duskywing (Burns, 1960)
+  - Wing Span: 1 3/8 - 1 3/4 inches (3.5 - 4.5 cm).
+  - Flight: One brood from April-July.
+  - Range: Southern Wyoming, Utah, southeastern Nevada, Colorado, Arizona, New Mexico, and west Texas.
+
 Erynnis propertius Propertius Duskywing (Scudder & Burgess, 1870)
+  - Wing Span: 1 3/8 - 1 3/4 inches (3.5 - 4.5 cm).
+  - Flight: One brood from March-July.
+  - Range: Southern British Columbia south along the Pacific Slope to Baja California Norte.
+
 Erynnis meridianus Meridian Duskywing Bell, 1927
 Erynnis scudderi Scudder's Duskywing (Skinner, 1914)
 Erynnis horatius Horace's Duskywing (Scudder & Burgess, 1870)
