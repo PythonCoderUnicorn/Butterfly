@@ -530,24 +530,86 @@ Erynnis propertius Propertius Duskywing (Scudder & Burgess, 1870)
   - Flight: One brood from March-July.
   - Range: Southern British Columbia south along the Pacific Slope to Baja California Norte.
 
-Erynnis meridianus Meridian Duskywing Bell, 1927
+Erynnis meridianus Meridian Duskywing (Bell, 1927)
+  - Wing Span: 1 5/8 - 1 7/8 inches (4.2 - 4.8 cm).
+  - Flight: Two broods from March-September in the Southwest.
+  - Range: Nevada, Arizona, New Mexico, Texas, Mexico City
+
 Erynnis scudderi Scudder's Duskywing (Skinner, 1914)
+  - Wing Span: 1 1/4 - 1 3/8 inches (3.2 - 3.5 cm).
+  - Flight: Probably two broods from May-August.
+  - Range: Arizona, Mexico.
+
 Erynnis horatius Horace's Duskywing (Scudder & Burgess, 1870)
+  - Wing Span: 1 7/16 - 1 15/16 inches (3.6 - 4.9 cm).
+  - Flight: Two broods in the north from April-September, three broods in the Deep South and Texas from January-November.
+  - Range: Massachusetts, South Dakota, Florida, Texas, Utah, Colorado, Arizona, and New Mexico.
+
 Erynnis tristis Mournful Duskywing (Boisduval, 1852)
+  - Wing Span: 1 1/4 - 1 15/16 inches (3.2 - 4.9 cm).
+  - Flight: Three broods in Texas from March-April, June-July, and September-November.
+  - Range: California, Arizona,  New Mexico, Mexico, and Central America to Colombia. Texas.
+
 Erynnis martialis Mottled Duskywing (Scudder, [1870])
+  - Wing Span: 1 1/8 - 1 5/8 inches (2.9 - 4.2 cm).
+  - Flight: Two broods from April-September.
+  - Range: Massachusetts , Ontario, Minnesota, South Carolina, the Gulf Coast, Texas. Parts of: Wyoming, Colorado, South Dakota.
+
 Erynnis pacuvius Pacuvius Duskywing (Lintner, 1878)
+  - Wing Span: 1 1/4 - 1 3/8 inches (3.2 - 3.5 cm).
+  - Flight: Two broods in southern California, Arizona, and New Mexico; one brood in the north.
+  - Range: British Columbia, California, Arizona, New Mexico, Mexico.
+
 Erynnis zarucco Zarucco Duskywing (Lucas, 1857)
+  - Wing Span: 1 5/8 - 1 7/8 inches (4.2 - 4.8 cm).
+  - Flight: Three broods in the Deep South from March to early October, emerging as early as late January in Florida.
+  - Range: North Carolina, Florida, Texas, Oklahoma. Pennsylvania and Connecticut. Cuba and Hispaniola.
+
 Erynnis funeralis Funereal Duskywing (Scudder & Burgess, 1870)
+  - Wing Span: 1 5/16 - 1 3/4 inches (3.4 - 4.5 cm).
+  - Flight: Three broods from March-December.
+  - Range: California, Arizona, New Mexico, Texas , Argentina. Illinois, Nebraska, Colorado, Nevada
+
 Erynnis baptisiae Wild Indigo Duskywing (Forbes, 1936)
+  - Wing Span: 1 3/8 - 1 5/8 inches (3/5 - 4.1 cm).
+  - Flight: Two broods from late April to early June and from July to August.
+  - Range:  New England , Ontario, Nebraska; Georgia, the Gulf Coast, Texas.
+
 Erynnis lucilius Columbine Duskywing (Scudder & Burgess, 1870)
+  - Wing Span: 1 3/16 - 1 5/8 inches (3 - 4.2 cm).
+  - Flight: Two broods from April-September.
+  - Range: Quebec, New England,  Minnesota; New Jersey , Pennsylvania; Virginia and Kentucky
+
 Erynnis afranius Afranius Duskywing (Lintner, 1878)
+  - Wing Span: 1 1/4 - 1 3/8 inches (3.2 - 3.5 cm).
+  - Flight: Several flights from March-August in southern California; two flights from May-August in the rest of the range.
+  - Range: Montana, North Dakota , California, Arizona, New Mexico, and Mexico.
+
 Erynnis persius Persius Duskywing (Scudder, 1863)
+  - Wing Span: 1 1/8 - 1 5/8 inches (2.9 - 4.2 cm).
+  - Flight: One brood from April-June.
+  - Range: Alaska, Manitoba; California, Arizona, New Mexico. New England, Wisconsin; Virginia.
+
 Aethilla lavochrea Yellow-rimmed Skipper Butler, 1872
 Aethilla echina Echina Skipper Hewitson, 1870
 Anisochoria bacchus Northern Snout-Skipper Evans, 1953
+
 Pyrgus centaureae Grizzled Skipper (Rambur, [1842])
+  - Wing Span: 1 - 1 5/16 inches (2.5 - 3.3 cm).
+  - Flight: One brood from March-May in the south, requires 2 years to develop in the subarctic.
+  - Range: Holarctic. In North America, from Alaska south and east to central Ontario and northern Michigan. Isolated populations in Labrador and arctic Quebec, the central Appalachians, and the Rocky Mountains from central Alberta south to northern New Mexico.
+  
+
 Pyrgus ruralis Two-banded Checkered-Skipper (Boisduval, 1852)
-Pyrgus xanthus Mountain Checkered-Skipper W.H. Edwards, 1878
+  - Wing Span: 1 - 1 1/8 inches (2.5 - 2.9 cm).
+  - Flight: One brood from April-July.
+  - Range: British Columbia and Alberta, California, Arizona, and New Mexico.
+
+Pyrgus xanthus Mountain Checkered-Skipper (W.H. Edwards, 1878)
+  - Wing Span: 3/4 - 1 inch (2 - 2.5 cm).
+  - Flight: One brood from April-June.
+  - Range: Southern Colorado to central Arizona and southern New Mexico.
+
 Pyrgus scriptura Small Checkered-Skipper (Boisduval, 1852)
 Pyrgus communis Common Checkered-Skipper (Grote, 1872)
 Pyrgus albescens White Checkered-Skipper Plötz, 1884
