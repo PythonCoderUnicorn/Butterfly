@@ -914,4 +914,4 @@ Stallingsia maculosus Manfreda Giant-Skipper (H.A. Freeman, 1955)
 
 
 
-![butterflies dataset](https://www.butterfliesandmoths.org/taxonomy)
+[butterflies dataset](https://www.butterfliesandmoths.org/taxonomy)
