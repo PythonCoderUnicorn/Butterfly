@@ -911,3 +911,7 @@ Megathymus streckeri Strecker's Giant-Skipper (Skinner, 1895)
 Megathymus cofaqui Cofaqui Giant-Skipper (Strecker, 1876)
 Megathymus ursus Ursine Giant-Skipper Poling, 1902
 Stallingsia maculosus Manfreda Giant-Skipper (H.A. Freeman, 1955)
+
+
+
+![butterflies dataset](https://www.butterfliesandmoths.org/taxonomy)
