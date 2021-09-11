@@ -4,7 +4,7 @@
 - Apyrrothrix araxes Dull Firetip (Hewitson, 1867)  
   - Wing Span: 1 3/4 - 2 1/4 inches (4.5 - 5.7 cm).
   - Flight: June-November
-  - Range: Southern Arizona, west Texas, Mexico.
+  - Range: Arizona, Texas, Mexico.
 
 
 ## Subfamily: Pyrginae (Spread-wing Skippers)
@@ -611,26 +611,100 @@ Pyrgus xanthus Mountain Checkered-Skipper (W.H. Edwards, 1878)
   - Range: Southern Colorado to central Arizona and southern New Mexico.
 
 Pyrgus scriptura Small Checkered-Skipper (Boisduval, 1852)
+  - Wing Span: 3/4 - 1 inch (2 - 2.5 cm).
+  - Flight: One brood from July-August in the north, several broods from March-November in the southern part of the range.
+  - Range: Montana, Wyoming, Colorado, New Mexico, Mexico, Utah, Nevada, Arizona, California
+
 Pyrgus communis Common Checkered-Skipper (Grote, 1872)
-Pyrgus albescens White Checkered-Skipper Plötz, 1884
-Pyrgus adepta Central American Checkered-Skipper Plötz, 1884
-Pyrgus philetas Desert Checkered-Skipper W.H. Edwards, 1881
+  - Wing Span: 1 - 1 1/2 inches (2.5 - 3.8 cm).
+  - Flight: February-October in the Deep South, March-September in the north.
+  - Range: United States, Texas, Arizona, California, Mexico. New England.
+
+Pyrgus albescens White Checkered-Skipper (Plötz, 1884)
+  - Wing Span: 1 - 1 1/2 inches (2.5 - 3.8 cm).
+  - Flight: All year in South Texas
+  - Range: California, Arizona, New Mexico, Texas; Florida, and Mexico. 
+
+Pyrgus adepta Central American Checkered-Skipper (Plötz, 1884)
+
+Pyrgus philetas Desert Checkered-Skipper (W.H. Edwards, 1881)
+  - Wing Span: 1 - 1 1/8 inches (2.5 - 2.9 cm).
+  - Flight: Two to three broods; from February-December in Texas, April-October in Arizona.
+  - Range: Arizona , Texas, Mexico. 
+
+
 Pyrgus oileus Tropical Checkered-Skipper (Linnaeus, 1767)
+  - Wing Span: 1 1/4 - 1 1/2 inches (3.2 - 3.8 cm).
+  - Flight: Four to five broods throughout the year in South Texas and Florida.
+  - Range: Florida, Texas, Mexico, and Central America, Argentina.
+
 Pyrgus crisia Antillean Checkered-Skipper (Herrich-Schäffer, 1865)
+
 Heliopyrgus domicella Erichson's White-Skipper (Erichson, [1849])
+  - Wing Span: 1 1/8 - 1 3/8 inches (2.9 - 3.5 cm).
+  - Flight: April-December in South Texas, all year in the tropics.
+  - Range: Mexico, Central America, Argentina. California, Nevada, Arizona, and Texas.
+
 Heliopyrgus sublinea (Schaus, 1902)
+
 Heliopetes ericetorum Northern White-Skipper (Boisduval, 1852)
+  - Wing Span: 1 1/4 - 1 1/2 inches (3.2 - 3.8 cm).
+  - Flight: Several broods from April-October.
+  - Range: Washington, Colorado, California, Arizona, California, Mexico.
+
 Heliopetes macaira Turk's-cap White-Skipper (Reakirt, [1867])
+  - Wing Span: 1 1/4 - 1 3/8 inches (3.2 - 3.5 cm).
+  - Flight: Many broods from April-November in South Texas.
+  - Range: Texas, Central America, Paraguay.
+
 Heliopetes laviana Laviana White-Skipper (Hewitson, 1868)
+  - Wing Span: 1 3/8 - 1 5/8 inches (3.5 - 4.2 cm).
+  - Flight: Many broods throughout the year in South Texas.
+  - Range: Argentina, Central America, Mexico, Texas. 
+
+
 Heliopetes arsalte Veined White-Skipper (Linnaeus, 1758)
+  - Wing Span: 1 7/16 - 1 11/16 inches (3.7 - 4.3 cm).
+  - Flight: October in South Texas, May-November in Mexico and Central America.
+  - Range: Argentina, Central America,  Mexico. 
+
 Heliopetes alana Alana White-Skipper (Reakirt, 1868)
+
 Celotes nessus Common Streaky-Skipper (W.H. Edwards, 1877)
-Celotes limpia Scarce Streaky-Skipper Burns, 1974
+  - Wing Span: 7/8 - 1 3/16 inches (2.2 - 3 cm).
+  - Flight: Several broods from March-November in Texas.
+  - Range: Arizona,  New Mexico,  Texas, Mexico.
+
+Celotes limpia Scarce Streaky-Skipper (Burns, 1974)
+  - Wing Span: 1 - 1 1/4 inches (2.5 - 3.2 cm).
+  - Flight: Several broods from March-September.
+  - Range: Texas, Mexico.
+
 Pholisora catullus Common Sootywing (Fabricius, 1793)
+  - Wing Span: 1 - 1 5/16 inches (2.5 - 3.3 cm).
+  - Flight: Two broods; from May-August in the north, March-November in Texas.
+  - Range: United States, Mexico. British Columbia, Michigan, Quebec, Maine. 
+
 Pholisora mejicanus Mexican Sootywing (Reakirt, [1867])
+  - Wing Span: 15/16 - 1 3/16 inches (2.4 - 3 cm).
+  - Flight: Two broods from May-August.
+  - Range: Colorado, New Mexico, Mexico. 
+
 Hesperopsis libya Mohave Sootywing (Scudder, 1878)
+  - Wing Span: 7/8 - 1 1/4 inches (2.2 - 3.2 cm).
+  - Flight: One brood in North Dakota and Montana from July-August; two broods in Colorado from June-August; several broods in southern California from March-October.
+  - Range: Oregon, Montana, California, Arizona, California, Mexico.
+
 Hesperopsis alpheus Saltbush Sootywing (W.H. Edwards, 1876)
+  - Wing Span: 3/4 - 1 1/4 inches (2 - 3.2 cm).
+  - Flight: Two broods from May-September.
+  - Range: Nevada, Colorado, California, Arizona, New Mexico,  Texas,  Mexico.
+
 Hesperopsis gracielae MacNeill's Sootywing (MacNeill, 1970)
+  - Wing Span: 3/4 - 1 1/4 inches (2 - 3.2 cm).
+  - Flight: Many broods from April-October.
+  - Range: Colorado, Utah ,Nevada, Arizona; California.
+
 Creonpyge creon Creon Skipper (H. Druce, 1874)
 
 
